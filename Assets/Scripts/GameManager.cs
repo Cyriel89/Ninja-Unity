@@ -71,7 +71,7 @@ public class GameManager : MonoBehaviour
             }
         }
     }
-
+//hello there
     public void GameOver() {
         gameOverText.gameObject.SetActive(true);
         isGameActive = false;
